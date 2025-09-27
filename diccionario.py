@@ -1,9 +1,3 @@
-# Tarea: Trabajando con Diccionarios
-# Autor: Lizeth (ejemplo)
-# Descripción: Crea un diccionario con información personal ficticia y realiza operaciones
-#              solicitadas en la tarea: modificar ciudad, agregar/actualizar profesión,
-#              verificar y agregar teléfono, eliminar edad e imprimir resultado final.
-
 informacion_personal = {
     "nombre": "María López",
     "edad": 30,
